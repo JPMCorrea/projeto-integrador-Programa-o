@@ -1,13 +1,18 @@
 ARQUIVO no contexto da computação:
-Em computação, um arquivo é uma unidade de armazenamento identificada por um nome e associada a dados. Esses dados podem incluir qualquer tipo de informação, como texto, imagens, vídeos, programas executáveis, entre outros. Os arquivos são organizados em sistemas de arquivos em dispositivos de armazenamento, como discos rígidos ou unidades de estado sólido (SSD), e são fundamentais para a organização e persistência de dados em sistemas computacionais.
+Em computação, um arquivo é uma unidade de armazenamento identificada por um nome e associada a dados. 
+Esses dados podem incluir qualquer tipo de informação, como texto, imagens, vídeos, programas executáveis, entre outros. 
+Os arquivos são organizados em sistemas de arquivos em dispositivos de armazenamento, como discos rígidos ou unidades de estado sólido (SSD), e são fundamentais para a organização e persistência de dados em sistemas computacionais.
 1.1 ARQUIVO DE TEXTO:
 Um arquivo de texto é um tipo específico de arquivo que contém dados representados apenas por caracteres textuais, sem formatação especial ou códigos de formatação elaborados. Os arquivos de texto são comumente utilizados para armazenar informações legíveis por humanos, como documentos, scripts de código-fonte, configurações de programas, entre outros.
 
 VARIÁVEL no contexto da programação de computadores:
-Em programação de computadores, uma variável é um espaço de armazenamento identificado por um nome (identificador) e associado a um valor ou dado específico. As variáveis têm a capacidade de armazenar e representar diferentes tipos de dados, como números, textos, booleanos, entre outros. Elas são essenciais para a manipulação dinâmica de informações em um programa e permitem que valores sejam armazenados, modificados e referenciados durante a execução do código.
+Em programação de computadores, uma variável é um espaço de armazenamento identificado por um nome (identificador) e associado a um valor ou dado específico. 
+As variáveis têm a capacidade de armazenar e representar diferentes tipos de dados, como números, textos, booleanos, entre outros. Elas são essenciais para a manipulação dinâmica de informações em um programa e permitem que valores sejam armazenados, modificados e referenciados durante a execução do código.
 
 SERVIDOR no contexto da computação:
-Um servidor é um computador ou sistema especializado que fornece serviços, recursos ou dados para outros dispositivos chamados clientes, geralmente por meio de uma rede, como a internet. Os servidores desempenham papéis diversos, como hospedar sites, armazenar e gerenciar bancos de dados, processar solicitações de e-mail, entre outras funções. Eles são projetados para lidar com um grande volume de requisições e fornecer serviços de forma confiável e eficiente para múltiplos usuários ou sistemas clientes.
+Um servidor é um computador ou sistema especializado que fornece serviços, recursos ou dados para outros dispositivos chamados clientes, geralmente por meio de uma rede, como a internet. 
+Os servidores desempenham papéis diversos, como hospedar sites, armazenar e gerenciar bancos de dados, processar solicitações de e-mail, entre outras funções. 
+Eles são projetados para lidar com um grande volume de requisições e fornecer serviços de forma confiável e eficiente para múltiplos usuários ou sistemas clientes.
 
 
 
