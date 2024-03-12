@@ -1,0 +1,11 @@
+def imprimir_vogais(frase):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = [letra for letra in frase if letra in vogais]
+    resultado = ''.join(vogais_encontradas)
+    print("Vogais na frase:", resultado)
+
+# Exemplo de uso
+if __name__ == "__main__":
+    palavra_frase = input("Digite uma palavra ou frase: ")
+    imprimir_vogais(palavra_frase)
+
